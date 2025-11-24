@@ -1,0 +1,6 @@
+sagemaker ## Basically for using the AWS sagemaker itself.
+scikit-learn ## As we are going to use ML models
+pandas
+numpy
+ipykernel ## To work with jupyter notebook
+boto3 ## Basically used to connect with S3 bucket
